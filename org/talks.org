@@ -2,6 +2,7 @@
 #+export_file_name: talks
 #+hugo_custom_front_matter: :hideBackToTop true :hidePagination true
 
+- /Axiomatizations of Presburger Arithmetic With Powers/, [[https://mathematik.univie.ac.at/forschung/seminare/seminars-at-the-kgrc/research-seminar-in-model-theory/nachrichtenvolldarstellung-se/news/axiomatizations-of-presburger-arithmetic-with-powers/?no_cache=1&cHash=0bd305e3b95d39fee93c58749de4a310][Research Seminar in Model Theory, Universität Wien]], 27. May 2026
 - /Axiomatizing the Universal Theory of Presburger With Powers/, [[https://www.math.uni-duesseldorf.de/~internet/GeSAMT/][GeSAMT -- Gemeinsames Seminar Algebra und Modelltheorie]], Bonn, 1. Nov 2025 
 
 * Where else you might have met me

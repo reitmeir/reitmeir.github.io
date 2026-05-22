@@ -5,6 +5,7 @@ hideBackToTop = true
 hidePagination = true
 +++
 
+-   _Axiomatizations of Presburger Arithmetic With Powers_, [Research Seminar in Model Theory, Universität Wien](https://mathematik.univie.ac.at/forschung/seminare/seminars-at-the-kgrc/research-seminar-in-model-theory/nachrichtenvolldarstellung-se/news/axiomatizations-of-presburger-arithmetic-with-powers/?no_cache=1&cHash=0bd305e3b95d39fee93c58749de4a310), 27. May 2026
 -   _Axiomatizing the Universal Theory of Presburger With Powers_, [GeSAMT -- Gemeinsames Seminar Algebra und Modelltheorie](https://www.math.uni-duesseldorf.de/~internet/GeSAMT/), Bonn, 1. Nov 2025
 
 
