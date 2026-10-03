@@ -65,6 +65,10 @@ url = "/cv"
 name = "talks"
 url = "/talks"
 
+[[params.menu]]
+name = "math & ai"
+url = "/ai"
+
 # Syntax highlight on code blocks
 [markup]
 [markup.highlight]
